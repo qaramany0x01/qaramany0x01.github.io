@@ -13,7 +13,7 @@
 minimal_mistakes_skin    : "air"
 # Site Settings
 locale                   : "en-US"
-title                    : "qaramany0x01 Blog "
+title                    : "The Conqueror Blog "
 title_separator          : "-"
 name                     : "Ahmed Qaramany"
 description              : "Security Researcher, Secured SONY,AT&T,Telekom and others "
@@ -80,9 +80,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "qaramany0x01"
+  username               : "c0nqr0r"
 facebook:
-  username               : "qaramany0x01"
+  username               : "c0nqr0r"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,23 +107,23 @@ author:
   avatar           : https://i.pinimg.com/564x/bd/ab/b1/bdabb1c905e91fb5203badaa0037d12e.jpg
   bio              : "Security Researcher Working with Passion , Secured SONY,AT&T,Telekom and others "
   location         : "Egypt"
-  email            : qaramany0x01@wearehackerone.com
+  email            : c0nqr0r@wearehackerone.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "#"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/qaramany0x01"
+      url: "https://www.facebook.com/c0nqr0r"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/qaramany0x01"
+      url: "https://github.com/c0nqr0r"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/qaramany0x01/"
+      url: "https://www.instagram.com/c0nqr0r"
     - label: "Linkedin"
-      url: "https://www.linkedin.com/in/qaramany0x01/"
+      url: "https://www.linkedin.com/in/c0nqr0r"
 
 # Site Footer
 footer:
@@ -136,7 +136,7 @@ footer:
       #url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/qaramany0x01"
+      url: "https://github.com/c0nqr0r"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: ""
