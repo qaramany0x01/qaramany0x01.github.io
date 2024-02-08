@@ -5,6 +5,7 @@ layout: single
 ---
 
 
+
 بسم الله والصلاة والسلام على رسول الله صلي الله عليه وسلم.
  <div dir="auto">
 ناس كتير سألتني عن امتحان الـ eWPTX، فإن شاء الله تعالى البوست ده هيكون مرجع ليك لو حابب تدخل الامتحان أو تحضرله إن شاء الله.
@@ -65,15 +66,22 @@ layout: single
 
  <div dir="auto">
 - SQL Injection بأنواعها وابحث برضه عن الـ Second Order.
+ </div>
+
 - XXE.
 - SSRF.
+ <div dir="auto">
 - ماذا بعد الـ localhost هتعمل ايه؟
+ </div>
+
 - SSTI.
 - PHP & JAVA Deserialization.
+ <div dir="auto">
 - ازاي لو معاك ثغرة تاخد منها Reverse Shell؟ ودا متطلب في الامتحان.
 - ازاي تعلي صلاحيتك؟ من user عادي لـ admin.
 - ازاي تعمل Recon للتارجت بتاعك.
 - ازاي توصل من ثغرة لثغرة تاني؟
+ </div>
 - XSS.
 
 أهم شيء في الامتحان علشان تنجح علي حسب ما اتقالي:
@@ -81,6 +89,7 @@ layout: single
 2 RCE.
 1 XXE.
 
+ <div dir="auto">
 وان شاء الله انت هتجيب اكثر من كدة لأنك مفروض تعمل ريبورت كامل فيه كل حاجة كانك بالظبط في Pentest وتطلع كل الـ Findings اللي تقدر تلاقيها حتى لو فيه حاجة low بلغها برضه.
  </div>
 
@@ -94,6 +103,7 @@ layout: single
 - [https://www.doyler.net/security-not-included/ewptx-review](https://www.doyler.net/security-not-included/ewptx-review)
 - [https://stacktrac3.co/ewptx-review/](https://stacktrac3.co/ewptx-review/)
 - [https://www.linkedin.com/.../emad0x90.../](https://www.linkedin.com/.../emad0x90.../)
+
 
 وأتمنى من كل من قرأ هذا واستفاد أن يدعوا لي بصالح دعائه.
 
