@@ -13,6 +13,7 @@
 minimal_mistakes_skin    : "air"
 # Site Settings
 locale                   : "en-US"
+direction: "rtl" # لتحديد الاتجاه من اليمين إلى اليسار
 title                    : "The Conqueror Blog "
 title_separator          : "-"
 name                     : "Ahmed Qaramany"
